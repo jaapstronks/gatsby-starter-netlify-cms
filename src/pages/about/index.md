@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: About our values
+title: over deze blog
 ---
 ### Shade-grown coffee
 
