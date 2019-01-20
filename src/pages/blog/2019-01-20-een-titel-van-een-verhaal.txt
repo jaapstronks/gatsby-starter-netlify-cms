@@ -1,0 +1,13 @@
+---
+templateKey: 'blog-post'
+title: 'Een titel van een verhaal'
+date: 2019-01-20
+description: >-
+ De samenvatting, blslba
+tags:
+  trefwoord
+-  koffie
+-  dingen
+---
+En hier de inhoud
+![](https://bureaubolster.s3-eu-west-1.amazonaws.com/55hrf24jnjggpepf16zt52rwddmduyen.jpeg)
